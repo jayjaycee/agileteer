@@ -11420,7 +11420,7 @@ button.toast-close-button {
 
 #footer .footer-widgets-wrap {
 	position: relative;
-	padding: 80px 0;
+	padding: 40px 0;
 }
 
 .footer-widgets-wrap .col_full,
@@ -11826,51 +11826,8 @@ body:not(.device-touch) .tagcloud a {
 
 
 /* ----------------------------------------------------------------
-	34. Wedding
+	34. Wedding - Removed: Not Site Specific
 -----------------------------------------------------------------*/
-
-
-.wedding-head {
-	position: relative;
-	line-height: 1;
-	font-size: 80px;
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
-}
-
-.wedding-head .first-name,
-.wedding-head .last-name,
-.wedding-head .and {
-	display: inline-block;
-	margin-right: 15px;
-	font-weight: bold;
-	text-align: right;
-	text-transform: uppercase;
-	font-family: 'Raleway', sans-serif;
-	letter-spacing: 2px;
-}
-
-.wedding-head .last-name {
-	margin: 0 0 0 15px;
-	text-align: left;
-}
-
-.wedding-head .first-name span,
-.wedding-head .last-name span {
-	display: block;
-	margin-top: 10px;
-	font-size: 56px;
-	font-weight: 400;
-	font-style: italic;
-	font-family: 'Crete Round', serif;
-	text-transform: none;
-}
-
-.wedding-head .and {
-	margin: 0;
-	font-size: 200px;
-	font-family: 'Times New Roman', serif;
-}
-
 
 /* ----------------------------------------------------------------
 	35. Bootstrap Specific
